@@ -5,7 +5,7 @@
 <h3 align="center">A Passionate Programmer and Developer from Ahmedabad</h3>
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=NityaB24&label=Profile%20views&color=0e75b6&style=flat" alt="Nitya Balar"/>
+ <img src="https://komarev.com/ghpvc/?username=NityaB24&label=Profile%20views&color=0e75b6&style=flat" alt="Yash Laxwani"/>
  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{NityaB24}1212%2Fhit-counter" alt="Nitya Balar"/> 
  </p>
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
@@ -18,6 +18,7 @@
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
 </div>
 
 <br>
@@ -41,16 +42,16 @@
 
 - 📫 How to reach me **yashlaxwani@gmail.com**
 
-- 📄 Know about my experiences [my experiences](https://nityabalar.vercel.app/images/CV.pdf)
+- 📄 Know about my experiences [my experiences](https://drive.google.com/file/d/1R_uxrMckVL9XAo5C4cQCh_Vl-zOjq1bk/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I'm funny**
 
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nitya-balar-ab9066263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nityabalar" height="30" width="40" /></a>
-<a href="https://github.com/NityaB24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="nityabalar" height="30" width="40" /></a>
-<a href="https://www.instagram.com/nityab.24?igsh=cnMwcm5ucmRyanJl&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nityabalar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yash-laxwani?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nityabalar" height="30" width="40" /></a>
+<a href="https://github.com/Yashlaxwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="nityabalar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/laxwani47?igsh=MW5nOG8yc3phdmpoNQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nityabalar" height="30" width="40" /></a>
 </p>
 <br>
 
@@ -61,42 +62,42 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,html,css,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=react,js,nextjs,html,css,tailwind,materialui" />
   </a>
 </p>
 
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,php,flask,fastapi" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
   </a>
 </p>
 
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   </a>
 </p>
 
 - Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=azure,aws,cloudflare" />
   </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,matlab,postman,linux,vscode,eclipse" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,matlab,postman,linux,vscode" />
   </a>
 </p>
 
 - Extras
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch,heroku,netlify,vercel" />
+    <img src="https://skillicons.dev/icons?i=opencv,netlify,vercel" />
   </a>
 </p>
 
