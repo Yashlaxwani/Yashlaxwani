@@ -42,7 +42,7 @@
 
 - 📫 How to reach me **yashlaxwani@gmail.com**
 
-- 📄 Know about my experiences [my experiences](https://drive.google.com/file/d/1d3ZxL8CgEYo02vTYLTsvL0bA_QsKjHqq/view?usp=drive_link)
+- 📄 Know about my experiences [my experiences](https://drive.google.com/file/d/1WWL59NqaEI0Qrky-HJ86uFG4qSwZyL_s/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm funny**
 
