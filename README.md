@@ -6,7 +6,7 @@
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=Yashlaxwani" alt="Yash Laxwani"/>
- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{Yashlaxwani}1212%2Fhit-counter" alt="Nitya Balar"/> 
+ <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{Yashlaxwani}1212%2Fhit-counter" alt="Yash Laxwani"/> 
  </p>
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
@@ -42,7 +42,7 @@
 
 - 📫 How to reach me **yashlaxwani@gmail.com**
 
-- 📄 Know about my experiences [my experiences](https://drive.google.com/file/d/1R_uxrMckVL9XAo5C4cQCh_Vl-zOjq1bk/view?usp=drive_link)
+- 📄 Know about my experiences [my experiences](https://drive.google.com/file/d/1d3ZxL8CgEYo02vTYLTsvL0bA_QsKjHqq/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I'm funny**
 
